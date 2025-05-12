@@ -1,5 +1,7 @@
 # Minimum requirements
 numpy
+xara
+opensees
 scipy
 prettytable
 pyvista[all,trame]
